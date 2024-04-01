@@ -13,8 +13,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @ExtendWith(ResultAnalyzer.class)
 public class MainTest {
-
-    MobilePhone mobilePhone;
+    MobilePhone
+     mobilePhone;
 
     @BeforeEach
     void setUp() {
